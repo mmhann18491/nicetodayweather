@@ -69,3 +69,6 @@ firebase.json
 
 #firebase options
 lib/firebase_options.dart
+
+#vscode
+.vscode/
